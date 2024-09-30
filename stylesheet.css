@@ -1,23 +1,6 @@
-.text {
+.header {
     color: #333;
     font-family: Arial, sans-serif;
     font-size: 16px;
 }
 
-.name  {
-    color: green;
-}
-
-.box {
-    background-color: #ffcc00;
-    margin: 20px 30px 40px 50px;
-    padding: 10px 20px 10px 20px;
-    border: 2px solid gray;
-    box-shadow: 3px 3px 5px rgba(0,0,0,0.3);
-}
-
-.conteiner  {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-}
